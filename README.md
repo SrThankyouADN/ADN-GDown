@@ -25,7 +25,7 @@ Um aplicativo desktop poderoso e intuitivo para fazer scraping e baixar arquivos
 - Interface responsiva com tema claro/escuro
  
 
- <img src="image/screenshot.png"/>
+ <img src="https://github.com/SrThankyouADN/ADN-GDown/blob/master/Image/screenshot.png"/>
  
 ## Recursos
 
