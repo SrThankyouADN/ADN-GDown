@@ -23,7 +23,10 @@ Um aplicativo desktop poderoso e intuitivo para fazer scraping e baixar arquivos
 - Autenticação segura com Google
 - Gerenciamento de downloads em fila
 - Interface responsiva com tema claro/escuro
+ 
 
+ <img src="image/screenshot.png"/>
+ 
 ## Recursos
 
 ✨ **Interface Moderna**
